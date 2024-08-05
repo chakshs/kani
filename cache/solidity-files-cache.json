@@ -152,8 +152,8 @@
       ]
     },
     "/workspaces/kani/kani/contracts/PERC20Sample.sol": {
-      "lastModificationDate": 1722854181926,
-      "contentHash": "a6e4c3e65eadb5b1f16619c8c96df806",
+      "lastModificationDate": 1722854328198,
+      "contentHash": "722fcf58b358da7c37502cbae45a0550",
       "sourceName": "contracts/PERC20Sample.sol",
       "solcConfig": {
         "version": "0.8.20",
